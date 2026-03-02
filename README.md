@@ -1,2 +1,2 @@
-# Amazon-Sales-Analysis-Dashboard
-The Amazon Sales Analysis Dashboard is an interactive Excel dashboard designed to analyze and visualize sales performance across different regions, product categories, customers, and payment methods.
+Interactive Amazon Sales Analysis Dashboard | Excel Data Analytics Project
+The objective of this project is to analyze Amazon sales data and develop an interactive Excel dashboard that provides meaningful insights into sales performance, customer behavior, regional trends, and product category performance.
